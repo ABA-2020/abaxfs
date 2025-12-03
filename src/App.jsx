@@ -232,7 +232,7 @@ const FSTechDashboard = () => {
               <div className="text-center mb-8">
                 <h2 className="text-3xl font-bold text-slate-800">Metodologia Disruptive</h2>
                 <p className="text-slate-500 max-w-2xl mx-auto mt-2">
-                  Un approccio pedagogico unico sul mercato, derivato dalle migliori pratiche internazionali e ottimizzato per l'Corporate Reskilling.
+                  Un approccio pedagogico unico sul mercato, derivato dalle migliori pratiche internazionali e ottimizzato per il Corporate Reskilling.
                 </p>
               </div>
 
@@ -300,7 +300,7 @@ const FSTechDashboard = () => {
 
             {/* Closing / Trust */}
             <div className="mt-12 text-center">
-              <h3 className="text-lg font-semibold text-slate-600 mb-6">Track Record & Fiducia</h3>
+              <h3 className="text-lg font-semibold text-slate-600 mb-6">Track Record</h3>
               <div className="flex flex-wrap justify-center gap-8 opacity-70 grayscale hover:grayscale-0 transition-all">
                 <div className="flex items-center space-x-2 font-bold text-xl text-slate-800">
                   <span className="bg-black text-white px-2 py-1 rounded">42</span>
